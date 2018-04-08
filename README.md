@@ -34,7 +34,8 @@ Vulnerability #1: _Insecure Object Reference on associates page_
 <img src="IOR-red.gif" width="800">
 Vulnerability #2: _Cross site request forgery on editing the users information_
 <img src="CSRF-red.gif" width="800">
-
+I wasn't sure if this was the right thing so I recorded a counter-example on the blue site where this doesn't work using any arbitrary URL.
+<img src="CSRF-blue-counter.gif" width="800">
 ## Notes
 
 Describe any challenges encountered while doing the work:
