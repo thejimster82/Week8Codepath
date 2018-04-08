@@ -25,6 +25,8 @@ Vulnerability #2: _SQL injection_
 
 Vulnerability #1: _Username Enumeration in login screen_
 <img src="username-enumeration-green.gif" width="800">
+The problem was that, in the case where the username existed in the server, the developer called the span class "failed" instead of "failure" which would have made it bold.
+<img src="spanfailure.png" width="800">
 Vulnerability #2: _XSS vulnerability in feedback form_
 <img src="XSS-green.gif" width="800">
 
