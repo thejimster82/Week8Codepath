@@ -1,6 +1,6 @@
 # Project 8 - Pentesting Live Targets
 
-Time spent: **4** hours spent in total
+Time spent: **5** hours spent in total
 
 > Objective: Identify vulnerabilities in three different versions of the Globitek website: blue, green, and red.
 
@@ -19,7 +19,7 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 Vulnerability #1: _Session hijacking using php script_
 <img src="Session-Hijack-Blue.gif" width="800">
 Vulnerability #2: _SQL injection_
-
+I know it has to be there because I have finished all of the other exploits but I have spent 2 hours trying to find it to no avail and I have other things to do.
 
 ## Green
 
@@ -37,4 +37,5 @@ Vulnerability #2: _Cross site request forgery on editing the users information_
 
 ## Notes
 
-Describe any challenges encountered while doing the work
+Describe any challenges encountered while doing the work:
+Often the hardest part of cracking things is having to repeat trials over and over and I can confirm that this was the case for this assignment as well. One of the other challenges that I found was remembering how all of these different exploits worked because it had been so long since we had used some of them. Another challenge was just getting the websites to work because half of the time that I would load a new page it would crash the site and I would have to go back and forth in my browser history to load it up correctly again.
