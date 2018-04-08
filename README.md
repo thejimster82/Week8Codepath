@@ -19,7 +19,7 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 Vulnerability #1: _Session hijacking using php script_
 <img src="Session-Hijack-Blue.gif" width="800">
 Vulnerability #2: _SQL injection_
-I know it has to be there because I have finished all of the other exploits but I have spent 2 hours trying to find it to no avail and I have other things to do.
+<img src="SQL-blue.gif" width="800">
 
 ## Green
 
